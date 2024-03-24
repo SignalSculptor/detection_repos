@@ -1,0 +1,10 @@
+repo_url: git clone url
+repo_branch: The branch name of interest for the source repo. Usually main, or master.
+repo_detection_folder_root: Path pattern with wildcards for folders that will contain detection content.
+yaml_title: YAML field that contains the title of the signal
+yaml_description: YAML field that contains the description of the signal
+yaml_author: YAML field that contains the author of the signal
+yaml_tags: YAML field that contains the tags of the signal
+repo_ext: Extension used in the repo for the YAML files
+is_sigma: yes/no if YAML files on repo are expected to be in sigma format, this is used to generate a sigconverter.io url
+repo_license: URL to the license file of the repo
