@@ -1,0 +1,10 @@
+repo_url: https://github.com/SigmaHQ/sigma.git
+repo_branch: master
+repo_detection_folder_root: "*/rules*"
+yaml_title: title
+yaml_description: description
+yaml_author: author
+yaml_tags: tags
+repo_ext: yml
+is_sigma: yes
+repo_license: https://github.com/SigmaHQ/sigma/blob/master/LICENSE
